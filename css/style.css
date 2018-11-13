@@ -1,0 +1,28 @@
+html{ 
+	font-family: 'Raleway', sans-serif;
+}
+
+.brand-logo, h3, h4, h5 {
+	font-family: 'Lato', sans-serif;
+}
+
+.shadow {
+	  text-shadow: 4px 4px 4px #aaa;
+}
+
+.nav-wrapper li a {
+    font-size: 18px;
+}
+
+strong {
+	font-style: italic;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
